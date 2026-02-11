@@ -1,0 +1,5 @@
+{
+  "name": "Secovi PR - Dashboard de Resultados",
+  "description": "Uma apresentação executiva e interativa baseada nos dados financeiros acumulados do Sistema Secovi PR, apresentando análises regionais, desempenho por braço de atuação e KPIs operacionais.",
+  "requestFramePermissions": []
+}
